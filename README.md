@@ -22,3 +22,4 @@ There are over 70,000 employees that will retire soon in the 'silver tsunami'.  
 
 ![All Employees](https://user-images.githubusercontent.com/92898919/146601282-7be8bd1c-8103-460f-ac46-be863383b502.png)
 
+An additional query could be to find the summation of all the salaries of the employees who are looking to retire to help them quantify how much money they have to backfill the positions.  
